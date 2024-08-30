@@ -1,0 +1,22 @@
+/* styles.css */
+
+.react-flags-select {
+  background-color: #2d2d2d; /* Same color as other inputs */
+  color: #ffffff; /* Text color */
+  border-radius: 0.375rem; /* Same border radius */
+  border: 1px solid #4a4a4a; /* Border color */
+}
+
+.react-flags-select__option {
+  background-color: #2d2d2d; /* Background color */
+  color: #ffffff; /* Text color */
+}
+
+.react-flags-select__selected {
+  background-color: #2d2d2d; /* Selected item color */
+  color: #ffffff; /* Selected item text color */
+}
+
+.react-flags-select__option:hover {
+  background-color: #4a4a4a; /* Hover color */
+}
